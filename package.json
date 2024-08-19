@@ -1,0 +1,11 @@
+{
+  "name": "___express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:FomenkoAndrey/___express_____20240819.git",
+  "author": "Alecto <fomenkoandrey1978@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
